@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+# This is a list of my favourite things to do when I'm free:
+- playing video games
+- working out
+- making new friends
